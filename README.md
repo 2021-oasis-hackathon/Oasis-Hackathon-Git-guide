@@ -1,5 +1,5 @@
 # 🏝 제2회 오아시스 해커톤 (Oasis Hackathon)🏝
-## Git 사용 가이드
+### <Git 사용 가이드>
 
 
 ### 💻git repository 부여 기준
