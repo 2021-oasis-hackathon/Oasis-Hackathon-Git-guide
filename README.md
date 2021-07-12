@@ -2,6 +2,11 @@
 ## Git 사용 가이드
 
 
+
+
+
+
+
 ### 💻git repository 부여 기준
 ##### ● 팀빌딩이 완료된 순서대로 각 팀의 대표 github계정 이메일로 초대 메일 발송
 ##### ● 나머지 팀원들은 "대표가 초대하기" 단, 기획자와 디자이너 초대는 자율이고 [개발자 2인은 필수]입니다.
@@ -11,6 +16,10 @@
 
 ### 💻Repository에 팀원 초대 방법
 ##### 부여 받은 저장소(Repository) > settings > manage access > invite teams or people > 초대 메일을 보낼 메일 주소 입력 > 역할(role) 선택 (admin 권장)
+
+
+
+
 
 
 ### 💻Repository 이름 바꾸는 방법
