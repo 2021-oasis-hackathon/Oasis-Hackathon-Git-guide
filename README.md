@@ -1,5 +1,5 @@
 # 🏝 제2회 오아시스 해커톤 (Oasis Hackathon)🏝
-# Git 사용 가이드
+## Git 사용 가이드
 
 ### git repository 부여 기준
 ##### ● 팀빌딩이 완료된 순서대로 각 팀의 대표 github계정 이메일로 초대 메일 발송
