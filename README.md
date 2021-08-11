@@ -17,7 +17,7 @@
 ###### 부여 받은 저장소(Repository) > settings > Options > Repository name 수정 후 Rename버튼 클릭
 
 
-### 💻.gitingnore 생성 방법
+### 💻.gitignore 생성 방법
 ###### ● .git 파일이 있는 최상위 디렉터리로 이동 
 ###### ● 터미널에서 파일 생성 $ touch .gitignore
 ###### ● 제대로 생성되었는지 확인 $la 또는 $ls -a
