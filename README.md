@@ -11,6 +11,7 @@
 
 ### 💻Repository에 팀원 초대 방법
 ###### 부여 받은 저장소(Repository) > settings > manage access > invite teams or people > 초대 메일을 보낼 메일 주소 입력 > 역할(role) 선택 (admin 권장)
+###### 초대받은 팀원은 메일을 통해 View Invitation버튼을 누른 후 초대 승락을 하셔야합니다.
 
 
 ### 💻Repository 이름 바꾸는 방법
